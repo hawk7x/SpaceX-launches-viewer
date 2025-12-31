@@ -1,0 +1,43 @@
+.launch-item {
+  background-color: #161b22;
+  border: 1px solid #30363d;
+  border-radius: 12px;
+  width: 230px;
+  padding: 1rem;
+  text-align: center;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.launch-item:hover {
+  transform: translateY(-5px);
+  border-color: #58a6ff;
+  box-shadow: 0 8px 20px rgba(88, 166, 255, 0.3);
+}
+
+.launch-item img {
+  width: 100px;
+  height: 100px;
+  object-fit: contain;
+  margin-bottom: 0.5rem;
+}
+
+.launch-item h3 {
+  margin: 0.5rem 0;
+  font-size: 1.1rem;
+}
+
+.launch-item p {
+  margin: 0.3rem 0;
+}
+
+.success {
+  color: #3fb950;
+  font-weight: 600;
+}
+
+.fail {
+  color: #f85149;
+  font-weight: 600;
+}

@@ -1,0 +1,38 @@
+.launch-detail {
+  flex: 1;
+  min-width: 300px;
+  max-width: 400px;
+  background-color: #161b22;
+  border: 1px solid #30363d;
+  border-radius: 12px;
+  padding: 1.5rem;
+  color: #c9d1d9;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.25);
+}
+
+.launch-detail h2 {
+  color: #58a6ff;
+  margin-bottom: 1rem;
+}
+
+.launch-detail a {
+  display: inline-block;
+  background-color: #238636;
+  color: white;
+  text-decoration: none;
+  padding: 0.5rem 1rem;
+  border-radius: 6px;
+  margin: 0.5rem 0;
+  transition: background-color 0.2s ease;
+}
+
+.launch-detail a:hover {
+  background-color: #2ea043;
+}
+
+.details {
+  margin-top: 1rem;
+  font-size: 0.9rem;
+  line-height: 1.4;
+  color: #8b949e;
+}

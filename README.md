@@ -45,4 +45,4 @@ npm start
 
 ## Video Demo
 
-[![SpaceX Launches Viewer](./assets/video_preview.jpg)](https://vimeo.com/1151311748)
+[![SpaceX Launches Viewer](https://github.com/user-attachments/assets/524caa9f-4e68-4c61-91c0-01b119eca2f5)](https://vimeo.com/1151311748)

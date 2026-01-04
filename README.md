@@ -4,7 +4,7 @@ A React web application that displays **SpaceX launch data** using the public Sp
 
 The project demonstrates practical React skills, API integration, state management with hooks, and a clean user interface.
 
----
+--- 
 
 ## Features
 
@@ -34,7 +34,9 @@ npm start
 
 ---
 
-<img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/634dbf48-1211-4888-9e32-a2d2a371001e" />
+![Screenshot 1](https://github.com/user-attachments/assets/524caa9f-4e68-4c61-91c0-01b119eca2f5)
+![Screenshot 2](https://github.com/user-attachments/assets/1a7a6228-3eb5-4e12-ab6b-2ee7364600b5)
+
 ---
-<img width="1919" height="910" alt="image" src="https://github.com/user-attachments/assets/e6e125d3-71d9-4c8a-ad83-16e2b359ee83" />
+
 

@@ -40,3 +40,9 @@ npm start
 ---
 
 ![Screenshot 2](https://github.com/user-attachments/assets/1a7a6228-3eb5-4e12-ab6b-2ee7364600b5)
+
+---
+
+## Video Demo
+
+[![Trajectory visualization demonstration](vimeo_preview.jpg)](https://vimeo.com/1151311748?share=copy&fl=sv&fe=ci)

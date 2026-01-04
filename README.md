@@ -45,4 +45,4 @@ npm start
 
 ## Video Demo
 
-[![Trajectory visualization demonstration](vimeo_preview.jpg)](https://vimeo.com/1151311748?share=copy&fl=sv&fe=ci)
+[![SpaceX Launches Viewer](./assets/video_preview.jpg)](https://vimeo.com/1151311748)
